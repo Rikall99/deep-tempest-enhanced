@@ -1,6 +1,4 @@
-# Deep-tempest:  Using Deep Learning to Eavesdrop on HDMI from its Unintended Electromagnetic Emanations
-
-<img src="deep-tempest.png"/>
+# Deep-tempest-enhanced:  Using Deep Learning to Eavesdrop on HDMI from its Unintended Electromagnetic Emanations
 
 ## Summary
 
